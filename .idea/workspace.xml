@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfa07ea2-64b6-4fab-b639-215a6f83447f" name="Changes" comment="InteliJ commit">
+    <list default="true" id="cfa07ea2-64b6-4fab-b639-215a6f83447f" name="Changes" comment="test2">
+      <change afterPath="$PROJECT_DIR$/src/Back1330.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back2577.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Back10005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Back10005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Back10807.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Back10807.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Back10808.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Back10808.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dodan796&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dodan796/Algorithsm.git&quot;,
+    &quot;accountId&quot;: &quot;5aa59bba-b3c0-4be9-8238-a8f013ffefb4&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -39,14 +55,38 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Back1330.executor": "Run",
+    "Application.Back2577.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "December__Backjoon",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "settings.qodana"
+    "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Back1330">
+    <configuration name="Back1330" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back1330" />
+      <module name="Algorithsm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Back2577" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back2577" />
+      <module name="Algorithsm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Back1330" />
+        <item itemvalue="Application.Back2577" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733164403392</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="InteliJ commitTest">
+      <option name="closed" value="true" />
+      <created>1733164569378</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733164569378</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test2">
+      <option name="closed" value="true" />
+      <created>1733164762322</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733164762322</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +156,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="InteliJ commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="InteliJ commit" />
+    <MESSAGE value="InteliJ commitTest" />
+    <MESSAGE value="test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test2" />
   </component>
 </project>

@@ -21,7 +21,7 @@ public class Back10807 {
 
         //4. arr배열의 크기만큼 반복
         for (int j = 0; j < arr.length; j++) {
-            if (b==arr[j]){
+            if (b == arr[j]) {
                 count++;
             }
         }
